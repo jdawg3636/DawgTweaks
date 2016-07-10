@@ -1,6 +1,5 @@
 # DawgTweaks
-A collection of small modifications for Minecraft
-Built upon Minecraft Forge, Forge Mod Loader, and MCP
+A collection of small modifications for Minecraft. Built upon Minecraft Forge, Forge Mod Loader, and Minecraft Coder Pack (AKA Mod Coder Pack).
 
 # Licence and Redistribution
 The project author reserves the right to revoke or modify this licence at any time, with or without notice.
