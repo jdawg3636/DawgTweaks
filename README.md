@@ -13,8 +13,8 @@ This code or portions of this code may be used for any purpose, commercial or no
 
 Definitions:
 
-Unofficial: Modified and/or downloaded from a source other than one provided by the original mod author
-Modified: Different in any way from the original
+ - Unofficial: Modified and/or downloaded from a source other than one provided by the original mod author
+ - Modified: Different in any way from the original
 
 # Frequently Asked Questions
 
